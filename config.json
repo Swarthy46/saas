@@ -1,0 +1,15 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [],
+        "ACTIVITY_TEXT": "Coreix Voice System",
+        "GUILD_ID": "807280827087192126",
+        "VOICE_CHANNEL": "807282555832369182",
+        "MIN_STAFF_ROLE": "807282068203110450"
+    },
+    "FILES": {
+        "WELCOME": "default_files/dayanak.mp3",
+        "STAFF": "default_files/<staff>.mp3"
+    },
+    "TOKEN": "ODA5ODIyOTQ3MzA4ODYzNTA4.YCasZA.-PHQrBzejBQ3L693C0JU1WxGAPo"
+	
+}
